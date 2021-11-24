@@ -1,0 +1,238 @@
+body {
+	background-color: #e4f9f5;
+	text-align: center;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+
+.container-fluid{
+	padding-right:15% ; 
+	padding-left:15% ;
+	padding-top:3% ;
+	padding-bottom: 2%;
+	font-size: 1.25rem;
+}
+.navbar-brand{
+	font-size: 2rem;
+	font-weight: bold;
+}
+
+.nav-item{
+	padding: 0 18px;
+}
+
+.profile{
+	padding-right:15% ; 
+	padding-left:15% ;
+	padding-bottom:100px;
+
+}
+
+#profile{
+	background-color: white;
+	position: sticky;
+	top :0;
+	z-index: -9;
+
+}
+
+hr{
+	border-style: none;
+	height: 2px;
+	width: 13%;
+	border-style: dotted;
+	border-bottom-width: 0px;
+	border-top-width: 12px;
+	border-color: #ff2e63;
+
+}
+
+
+
+h1{
+	color: #11999e;
+	font-family: 'Dancing Script', cursive;
+	font-size: 600%;
+}
+p{
+	font-size: 156%;
+	margin-bottom:0px;
+}
+
+h3{
+	color:#ff2e63; 
+}
+
+.home{
+	display: inline-block;
+	color: #ff2e63;
+	margin-left: 10px;
+}
+
+.cm{
+	display: inline-block;
+	color: #ff2e63;
+	position: absolute;
+	right:0px;
+	margin-right: 10px;
+}
+.work{
+	display: inline-block;
+	color: #ff2e63;
+	position: absolute;
+	right: 6%;
+	margin-right: 20px;
+}
+
+h2{
+	color: #11999e;
+	font-family: 'Kaushan Script', cursive;
+}
+
+.cloud1{
+	width: 10%;
+	height:10%;
+	position: relative;
+	top: 80px;
+	left:400px;
+}
+
+.cloud2{
+
+	width: 100px;
+	height:100px;
+	position: absolute;
+}
+
+.mountain{
+	width: 30%;
+	height: 30%;
+}
+
+.bottom{
+	background-color: white;
+}
+
+/*start*/
+#slide{
+	text-align: center;
+	background-color: #38A3A5 ; /*#009DAE*/
+	color: white; 
+}
+
+.dog-profile{
+	width: 15%;
+	border-radius: 100%;
+	margin:20px;
+}
+
+.lady-profile{
+	width: 15%;
+	border-radius: 100%;
+	margin:20px;
+}
+
+.carousel-item{
+	background-color:#38A3A5 ; /*#009DAE*/
+	padding: 7% 15%;
+}
+
+.skill-row{
+	width: 55%;
+	margin: 20px auto 30px auto;
+	text-align: left;
+	line-height: 200%;
+}
+
+/*end*/
+
+.bottom-container{
+	padding: 10px;
+	z-index: 100;
+	background-color: #e4f9f5;
+}
+
+.profile-picture{
+	width: 15%;
+	border-radius: 100px;
+	margin-bottom: 100px;
+	margin-top:50px;
+}
+
+.coding-icon{
+	margin-top: 50px;
+	width: 25%;
+
+
+}
+
+.python-icon{
+	margin-top:50px;
+	width:25%;
+
+}
+
+.carousel-inner h3{
+	color: #FFE652;
+	margin-bottom:10px;
+	font-size: 2.5rem;
+}
+
+.carousel-inner p{
+	font-size: 1.5rem;
+}
+
+
+
+/*float wraps text around image*/
+
+.web-dev-icon{
+	width:25%;
+	margin-top: 50px;
+}
+
+.contact-me{
+	background-color: #e4f9f5;
+}
+
+
+#footer{
+	text-align: center;
+	padding: 7% 15%;
+	color: grey;
+	z-index: 1;
+	background-color: #e4f9f5;
+}
+
+a{
+	color: grey;
+
+}
+
+a:hover{
+	opacity: 50%;
+}
+
+.footer-icon{
+	padding: 1%;
+}
+.top{
+	position: sticky;
+	top: 0;
+	z-index: -999;
+}
+
+#skills{
+	padding:7% 15%;
+	background-color: white;
+}
+
+.card-img-top{
+	width: 40%;
+}
+
+.col-md-6{
+	text-align:left;
+}
